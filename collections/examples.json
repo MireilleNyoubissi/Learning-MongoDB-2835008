@@ -1,18 +1,18 @@
 [{
 	"_id": {
-		"$oid": "5ee69d943260aab97ea0d58d"
+		"oid": "5ee69d943260aab97ea0d58d"
 	},
 	"title": "Pizza"
 },
 {
 	"_id": {
-		"$oid": "5ee69e393260aab97ea0d58e"
+		"oid": "5ee69e393260aab97ea0d58e"
 	},
 	"title": "Delete me"
 },
 {
 	"_id": {
-		"$oid": "5e5e9c470d33e9e8e3891b35"
+		"oid": "5e5e9c470d33e9e8e3891b35"
 	},
 	"title": "Tacos",
 	"calories_per_serving": 210,

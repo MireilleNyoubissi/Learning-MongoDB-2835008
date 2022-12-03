@@ -1,6 +1,6 @@
 [{
 	"_id": {
-		"$oid": "5e6fd805fa98021236426a24"
+		"oid": "5e6fd805fa98021236426a24"
 	},
 	"title": "Chicken Soft Tacos",
 	"calories_per_serving": 205,
@@ -63,7 +63,7 @@
 },
 {
 	"_id": {
-		"$oid": "5e877cba20a4f574c0aa56da"
+		"oid": "5e877cba20a4f574c0aa56da"
 	},
 	"title": "Pancakes",
 	"calories_per_serving": 232,
@@ -71,7 +71,7 @@
 		{
 			"body": "I love these! They are so fluffy!",
 			"date": {
-				"$date": "2000-01-03T18:42:30Z"
+				"date": "2000-01-03T18:42:30Z"
 			},
 			"name": "Grace Hopper",
 			"user_id": 2
@@ -179,7 +179,7 @@
 },
 {
 	"_id": {
-		"$oid": "5e87856d07beb474c074c5ca"
+		"oid": "5e87856d07beb474c074c5ca"
 	},
 	"title": "Brown Sugar Meatloaf",
 	"calories_per_serving": 273,
@@ -232,7 +232,7 @@
 },
 {
 	"_id": {
-		"$oid": "5e878f5220a4f574c0aa56db"
+		"oid": "5e878f5220a4f574c0aa56db"
 	},
 	"title": "Maple Smoked Salmon",
 	"calories_per_serving": 286,
@@ -274,7 +274,7 @@
 },
 {
 	"_id": {
-		"$oid": "5edf1cd43260aab97ea0d588"
+		"oid": "5edf1cd43260aab97ea0d588"
 	},
 	"title": "Apple Pie",
 	"calories_per_serving": 384,
@@ -282,7 +282,7 @@
 		{
 			"body": "Solid apple pie! Well I don't mean it is actually solid I mean it is really good ... it's actually both soft and crusty. I don't mean like bad crusty, I mean like the crust is ... oh never-mind.",
 			"date": {
-				"$date": "2020-09-07T18:42:30Z"
+				"date": "2020-09-07T18:42:30Z"
 			},
 			"name": "Caderyn Jenkins",
 			"user_id": 1
@@ -290,7 +290,7 @@
 		{
 			"body": "Mine is better, but this pretty good.",
 			"date": {
-				"$date": "2000-02-03T18:42:30Z"
+				"date": "2000-02-03T18:42:30Z"
 			},
 			"name": "Grace Hopper",
 			"user_id": 2
@@ -392,7 +392,7 @@
 },
 {
 	"_id": {
-		"$oid": "5edf1d313260aab97ea0d589"
+		"oid": "5edf1d313260aab97ea0d589"
 	},
 	"title": "Zucchini Brownies",
 	"calories_per_serving": 271,
@@ -484,7 +484,7 @@
 },
 {
 	"_id": {
-		"$oid": "5e5e9c470d33e9e8e3891b35"
+		"oid": "5e5e9c470d33e9e8e3891b35"
 	},
 	"title": "Tacos",
 	"calories_per_serving": 210,
@@ -548,4 +548,3 @@
 	],
 	"type": "Dinner"
 }]
-
